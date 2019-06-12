@@ -25,7 +25,10 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": [],
+            "scripts": [
+              "src/assets/js/jpuzzle.js",
+              "src/assets/js/kgfunctions.js"
+            ],
             "es5BrowserSupport": true
           },
           "configurations": {
